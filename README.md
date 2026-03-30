@@ -1062,7 +1062,6 @@ _Frameworks and tools for penetration testing._
 **Miscellaneous**
 
 ## Hardware
-
 _Libraries for programming with hardware._
 
 - [bleak](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio.
